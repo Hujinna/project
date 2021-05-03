@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/frame/frame.css"],"names":[],"mappings":"AAAA,YACI,WACJ,CACA,QACI,YAAa,CACb,6BACJ,CACA,wBACI,eACJ","file":"main.ba34192a.chunk.css","sourcesContent":[".ant-layout{\r\n    height: 100%;\r\n}\r\n.header{\r\n    display: flex;\r\n    justify-content: space-between;\r\n}\r\n.site-layout-background {\r\n    background: #fff;\r\n}"]}
